@@ -2,7 +2,7 @@ Olá, mundo! Me chamo Roger.
 Possuo graduação em Arquitetura e Urbanismo pela Universidade de Cruz Alta (2019). Estagiei na empresa RN Escritório de Arquitetura, de Ibirubá/RS, de 2015 a 2019, onde atuo hoje como projetista/desenhista, participando do processo geral de elaboração e acompanhamentos de projetos arquitetônicos residenciais, comerciais e institucionais e projetos paisagísticos.
 Possuo especialização Master em Paisagismo: Práticas Projetuais, pelo IPOG - Instituto de Pós-Graduação e Graduação (2022).
 Por fim, buscando novas oportunidades e explorando novos interesses, iniciei em 2026 uma nova graduação em Análise e Desenvolvimento de Sistemas, também pelo IPOG - Instituto de Pós-Graduação e Graduação. No momento, tenho conhecimento de Portugol, Python, HTML5 e CSS3. Busco ampliar meus conhecimentos nessa área, estando aberto a estágios.
-Interesso-me por Ciências Humanas, Arquitetura Sustentável, Paisagismo e Programação.
+Interesso-me por Ciências Humanas, Arquitetura Sustentável, Paisagismo e obviamente, Programação.
 
 <!--
 **rooogersantos/rooogersantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
